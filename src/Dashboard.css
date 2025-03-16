@@ -1,0 +1,27 @@
+
+.dashboard {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .admin-controls,
+  .editor-panel,
+  .viewer-reports {
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .admin-controls {
+    background-color: #2170b6;
+  }
+  
+  .editor-panel {
+    background-color: #cd6311; 
+  }
+  
+  .viewer-reports {
+    background-color: #539458; 
+  }
